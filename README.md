@@ -1,3 +1,3 @@
 # RepositorioGit
-Mi primer repositorio
+Mi primer repositorio\n
 Juan Antonio Nicolas
