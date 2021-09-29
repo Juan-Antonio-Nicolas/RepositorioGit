@@ -1,3 +1,3 @@
 # RepositorioGit
 Mi primer repositorio
-Juan Antonio N
+Juan Antonio Nicolas
